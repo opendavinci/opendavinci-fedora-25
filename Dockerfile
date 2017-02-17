@@ -46,3 +46,5 @@ RUN dnf -y install \
 
 RUN dnf -y install gdb-gdbserver
 
+RUN dnf -y install ncurses-devel
+
